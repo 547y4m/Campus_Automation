@@ -1,2 +1,2 @@
 # Campus_Automation
-EPICS project
+Engineering Project for Community Service 
